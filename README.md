@@ -1,5 +1,13 @@
 # README
 
+railsのテスト
+
+dot installの内容
+
+記事の作成・編集・削除
+
+コメントの作成・削除
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
